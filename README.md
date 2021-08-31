@@ -4,11 +4,19 @@ An open source library management project built using php, css, javascript, html
 
 
 # (Requerments) المتطلبات
-1. install App using```git clone https://github.com/IAlzoriqi/libraryManagement.git```
-1.Install PHP 7.x
-1.install mySql
-1.Import DB
-1.Run WebSite
-
+1. install App using
+<br>
+ ```
+ git clone https://github.com/IAlzoriqi/libraryManagement.git
+ ```
+ <br>
+2.Install PHP 7.x
+<br>
+3.install mySql
+<br>
+4.Import DB
+<br>
+5.Run WebSite
+<br>
 
 
